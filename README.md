@@ -9,6 +9,7 @@ Edit your PATH in the '.py' file or the code and your page number!
 
 # Step 3 
 Run the following command on the cmd
+
 `python PATH_WHERE_YOU_DOWNLOAD\delete_pdf_page.py`
 
 or 
