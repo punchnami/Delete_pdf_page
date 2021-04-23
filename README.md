@@ -1,5 +1,5 @@
 # Delete-pdf-page
-Deleting unwanted page from your PDF and SAVE the wanted page as new PDF file in a minute!
+Deleting unwanted page(s) from your PDF and SAVE the wanted page(s) as new PDF file in a minute!
 
 # Step 1
 Download '.py' file or Copy the raw code
