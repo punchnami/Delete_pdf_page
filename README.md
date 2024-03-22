@@ -6,13 +6,13 @@ Install PyPDF via cmd by enter the following command
 
 `pip install PyPDF`
 
-# Step 1
+# Step 2
 Download '.py' file or Copy the raw code
 
-# Step 2 
+# Step 3 
 Edit your **PATH** in the '.py' file or the code and your **page number** then save!
 
-# Step 3 
+# Step 4 
 Run the following command on the cmd
 
 `python PATH_WHERE_YOU_DOWNLOAD\delete_pdf_page.py`
@@ -21,5 +21,5 @@ or
 
 Run the edited code on your IDE
 
-# Step 4
+# Step 5
 Cheers!
